@@ -44,9 +44,11 @@ p {
 .learn-more p,
 svg {
   text-decoration: none;
-  font-size: small;
+  font-size: x-large;
   color: white;
-  font-style: oblique;
+  font-style: bold;
+  font-style: bolder;
+  font-family: New Century Schoolbook, TeX Gyre Schola, serif;
 }
 .learn-more {
   font-family: "pop", sans-serif;
