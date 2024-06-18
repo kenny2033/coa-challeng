@@ -3,7 +3,7 @@
   src: url("../fonts/DINCondensed-Bold.ttf");
 }
 body {
-  background: #333300;
+  background: olive;
   font-family: "din-condensed", sans-serif;
 }
 .images-container {
